@@ -8,4 +8,4 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 - [RunLengthEncoding.py](RunLengthEncoding.py)
 ---
 ## Contribution
-Read [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
+Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
