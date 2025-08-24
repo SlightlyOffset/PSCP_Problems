@@ -2,8 +2,6 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
-### 24 Aug 2025
-- [BrickBridge](brick_bridge.py)
 ### 16 Aug 2025
 - [BrickBridge](brick_bridge.py)
 ### 12 Aug 2025
