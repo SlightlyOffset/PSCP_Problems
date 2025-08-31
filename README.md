@@ -2,6 +2,14 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 1 Nov 2025
+- [CoinChangerv1](CoinChangerv1.py)
+- [Diginity](Diginity_loop.py)  **(loop method - work in iJudge)**
+- [Diginity](Diginity_mod9.py)  **(mod9 method - not work in iJudge)** <--- Work mathmethically
+- [Key](Key.py)
+- [TicTacToe](TicTacToe.py)
+- [PhoneNumber](PhoneNumber.py)
+
 ### 16 Aug 2025
 - [BrickBridge](brick_bridge.py)
 ### 12 Aug 2025
