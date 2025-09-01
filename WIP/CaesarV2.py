@@ -1,4 +1,6 @@
 '''CaesarV2'''
+import re
+
 def shifting(message, shift):
     '''shift and return the message'''
     new_message_parts = []
@@ -17,6 +19,18 @@ def shifting(message, shift):
 
     return "".join(new_message_parts)
 
+def find_decryption(message, common_words):
+    '''Tries all shifts to find a decryption containing a common word.'''
+    for shift in range(1, 26):
+        # To decrypt, we shift backwards. A positive shift of N is undone by a negative shift of N.
+        decrypted_message = shifting(message, -shift)
+        # Use regex to find all alphabetic words, ignoring attached punctuation.
+        for word in re.findall(r'[a-zA-Z]+', decrypted_message.lower()):
+            if word in common_words:
+                # If a common word is found, we assume this is the correct shift.
+                return decrypted_message
+    return None
+
 def main():
     '''main'''
     # Using a set provides faster lookups
@@ -27,16 +41,9 @@ def main():
     }
 
     message = input()
-    for shift in range(1, 26):
-        # To decrypt, we shift backwards. A positive shift of N is undone by a negative shift of N.
-        decrypted_message = shifting(message, -shift)
-        word_list = decrypted_message.lower().split()
-        for word in word_list:
-            if word in common_words:
-                # If a common word is found, we assume this is the correct shift.
-                # Print the results and exit the function immediately.
-                print(decrypted_message)
-                return
+    decrypted_message = find_decryption(message, common_words)
+    if decrypted_message:
+        print(decrypted_message)
 
 if __name__ == '__main__':
     main()
