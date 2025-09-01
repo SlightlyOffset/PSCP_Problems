@@ -10,7 +10,7 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 - [TicTacToe](TicTacToe.py)
 - [PhoneNumber](PhoneNumber.py)
 - [CaesarV1](CaesarV1.py)
-- [CaesarV2](WIP/CaesarV2.py)   <--- **WIP Worked in practical but not accepted by iJudge(somehow)**
+- [CaesarV2](WIP/CaesarV2.py)   <--- **WIP now accept by iJudge but have 1 testcase failed**
 
 ### 16 Aug 2025
 - [BrickBridge](brick_bridge.py)
