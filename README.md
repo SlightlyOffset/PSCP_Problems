@@ -2,10 +2,16 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 2 Nov 2025
+- [Chonk Rabbit](Chonk_Rabbit.py)
+- [PickThem](PickThem.py)
+- [LastStand](LastStand.py)
+- [Matrix_MN](Matrix_MN.py)
+
 ### 1 Nov 2025
 - [CoinChangerv1](CoinChangerv1.py)
 - [Diginity](Diginity_loop.py)  **(loop method - work in iJudge)**
-- [Diginity](Diginity_mod9.py)  **(mod9 method - not work in iJudge)** <--- Work mathmethically
+- [Diginity](Diginity_mod9.py)  **(mod9 method - not accepted by iJudge)** <--- Work mathmethically
 - [Key](Key.py)
 - [TicTacToe](TicTacToe.py)
 - [PhoneNumber](PhoneNumber.py)
