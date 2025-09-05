@@ -2,6 +2,13 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 5 Nov 2025
+- [Duplicate](Duplicate.py)
+- [Median](Median.py)
+- [PickThemAgain](PickThemAgain.py)
+- [Tuple's_Sad_Life](Tuples_Sad_Life.py)
+- [MissingNumber](MissingNumber.py)
+
 ### 2 Nov 2025
 - [Chonk Rabbit](Chonk_Rabbit.py)
 - [PickThem](PickThem.py)
