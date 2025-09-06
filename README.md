@@ -2,6 +2,9 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 7 Nov 2025
+- [Blackjack](Blackjack.py)
+
 ### 5 Nov 2025
 - [Duplicate](Duplicate.py)
 - [Median](Median.py)
