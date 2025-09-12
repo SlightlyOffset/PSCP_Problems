@@ -2,6 +2,12 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 13 Nov 2025
+- [BigFrame](big_frame.py)
+
+### 11 Nov 2025
+- [Sequence_N](sequence_N.py)
+
 ### 7 Nov 2025
 - [Blackjack](Blackjack.py)
 
