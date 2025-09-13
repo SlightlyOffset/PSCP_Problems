@@ -4,6 +4,8 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ## Update
 ### 13 Nov 2025
 - [BigFrame](big_frame.py)
+- **list method** [Shorten](Shorten_(List_method).py)   <--- **Restricted and not accepted by iJudge**
+- **str method** [Shorten](Shorten_(str_method).py)   <--- **Restricted and not accepted by iJudge**
 
 ### 11 Nov 2025
 - [Sequence_N](sequence_N.py)
