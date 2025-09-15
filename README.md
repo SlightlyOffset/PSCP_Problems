@@ -2,6 +2,9 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 15 Nov 2025
+- [Dart](Dart.py)
+
 ### 13 Nov 2025
 - [BigFrame](big_frame.py)
 - **list method** [Shorten](Shorten_(List_method).py)   <--- **Restricted and not accepted by iJudge**
