@@ -2,6 +2,10 @@
 A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 ---
 ## Update
+### 23 Nov 2025
+- [BloodDonation](BloodDonation.py)
+- [BloodDonation_Simplified](BloodDonation_Simplified.py)
+
 ### 22 Nov 2025
 - [CaesarV2](CaesarV2.py)
 - [RemoveTag](RemoveTag.py)
