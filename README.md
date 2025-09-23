@@ -5,7 +5,9 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
-### 23 Nov 2025
+### 24 Nov 2025
+- [Diamond_I](Diamond_I.py)
+
 - [BloodDonation](BloodDonation.py)
 - [BloodDonation_Simplified](BloodDonation_Simplified.py)
 
