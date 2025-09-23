@@ -7,7 +7,9 @@ Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ## Update
 ### 24 Nov 2025
 - [Diamond_I](Diamond_I.py)
+- [B_Fully_pair?](B_Fully_pair.py)
 
+### 23 Nov 2025
 - [BloodDonation](BloodDonation.py)
 - [BloodDonation_Simplified](BloodDonation_Simplified.py)
 
