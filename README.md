@@ -8,6 +8,7 @@ Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ### 30 Nov 2025
 - [Stair](Stair.py)
 - [Impostor](Impostor.py)
+- [FourDirections](FourDirections.py)
 
 ### 24 Nov 2025
 - [Diamond_I](Diamond_I.py)
