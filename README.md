@@ -5,6 +5,10 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
+### 30 Nov 2025
+- [Stair](Stair.py)
+- [Impostor](Impostor.py)
+
 ### 24 Nov 2025
 - [Diamond_I](Diamond_I.py)
 - [B_Fully_pair?](B_Fully_pair.py)
