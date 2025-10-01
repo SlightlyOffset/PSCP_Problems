@@ -5,6 +5,12 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
+### 2 Oct 2025
+- [Easy_Histogram](Easy_Histogram.py)
+- [Kangaroo](Kangaroo.py)
+- [Gift_II](Gift_II.py)
+- [Saitama](Saitama.py)
+
 ### 30 Nov 2025
 - [Stair](Stair.py)
 - [Impostor](Impostor.py)
