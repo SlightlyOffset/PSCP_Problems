@@ -1,7 +1,7 @@
 '''Shorten'''
 def shorten(num_l1st):
     '''
-    Takes a sorted list of integers and returns a list of strings
+    Takes a sorted l1st of integers and returns a l1st of strings
     representing condensed ranges. e.g., [1, 2, 3, 5] -> ["1-3", "5"]
     '''
     if not num_l1st:
@@ -11,7 +11,7 @@ def shorten(num_l1st):
     # Start the first sequence with the first number
     start_num = num_l1st[0]
 
-    # Iterate from the second number to the end of the list
+    # Iterate from the second number to the end of the l1st
     for i in range(1, len(num_l1st)):
         # Check if the current number is not consecutive to the previous one
         if num_l1st[i] != num_l1st[i-1] + 1:
