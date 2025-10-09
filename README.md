@@ -5,6 +5,15 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
+### 9 Oct 2025
+- [Flatten](Flatten.py)
+- [Align](align.py)
+- [Sequence_VIII](sequence_VIII.py)
+- [Sequence_IX](sequence_IX.py)
+- [Sequence_X](sequence_X.py)
+- [Sequence_XI](sequence_XI.py)
+- [Sequence_XII](sequence_XII.py)
+
 ### 2 Oct 2025
 - [Easy_Histogram](Easy_Histogram.py)
 - [Kangaroo](Kangaroo.py)
