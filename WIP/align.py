@@ -1,15 +1,8 @@
 '''
 align
 '''
-
-def main():'''
-    
+def main():
     '''
-
-if __name__ == "__main__":
-
-   main()
- '''
     main
     '''
     space = int(input())
@@ -17,15 +10,12 @@ if __name__ == "__main__":
     text = input()
     match align:
         case "left":
-            print(f"{text:<{space}}")
+            print(f"{text}{" " * (space - len(text))}")
         case "right":
-            print(f"{text:>{space}}")
+            print(f"{" " * (space - len(text))}{text}")
         case "center":
-            print(f"{text:^{space}}")
+            mid_space = (space - len(text)) // 2
+            mod = (space - len(text)) % 2
+            print(f"{" " * (mid_space + mod)}{text}{" " * mid_space}")
 if __name__ == "__main__":
     main()
-'''
-
-'''
-
-def main():
