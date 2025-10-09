@@ -5,11 +5,10 @@ def main():
     for i in range(1, n+1):
         output = ''
         for j in range(1, n+1):
-            if j in (i, n) or j == 1:
+            if j in (i, n, 1):
                 output += '*'
             else:
                 output += ' '
         print(output)
-
 if __name__ == "__main__":
     main()
