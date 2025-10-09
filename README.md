@@ -6,6 +6,7 @@ Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
 ### 9 Oct 2025
+- [CokeV2](cokev2.py)
 - [Flatten](Flatten.py)
 - [Align](align.py)
 - [Sequence_VIII](sequence_VIII.py)
