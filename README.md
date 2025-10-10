@@ -6,6 +6,8 @@ Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
 ### 10 Oct 2025
+- [SurprisingVote](WIP/SurprisingVote.py)   <--- **WIP**
+- [T-score](T_score.py)
 - [Calculator](Calculator.py)
 - [Donut](Donut.py)
 - [For!F-Ball](ForiF_Ball.py)
