@@ -5,6 +5,19 @@ A collection of PSCP Problems solutions. (KMITL IT23 Year 1)
 Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 ---
 ## Update
+### 10 Oct 2025
+- [Calculator](Calculator.py)
+- [Donut](Donut.py)
+- [For!F-Ball](ForiF_Ball.py)
+- [GQuuuuuuX](GQuuuuuuX.py)
+- [Giraffee](Giraffee.py)
+- [Kabata](Kabata.py)
+- [Orange](Orange.py)
+- [Palindrome](Palindrome.py)
+- [RectangleArea](RectangleArea.py)
+- [US_Interstate_Number_System](US_Interstate_Number_System.py)
+- [inflation](inflation.py)
+
 ### 9 Oct 2025
 - [CokeV2](cokev2.py)
 - [Flatten](Flatten.py)
